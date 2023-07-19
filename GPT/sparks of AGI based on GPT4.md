@@ -13,11 +13,11 @@
 8. Fig 5.7, see how GPT4 was not able to rethink, but was able to spot its error after being prompted again.
 
 ### Interaction with humans
-1. Theory of mind: what does another entity think.
-2. 6.5, a challenging family scenario. GPT-4 makes suggestions like a mature and sophisticated human.
+1. *Theory of mind*: what does another entity think.
+2. Fig 6.5, a challenging family scenario. GPT-4 makes suggestions like a mature and sophisticated human.
 3. Ability to explain oneself is a key aspect of intelligence and GPT4 possess such ability. 
 	1. *output consistent*: explanations are consistent with predictions given input/context; even with false/counterfactrual input, GPT-4 explains its false/conterfactural output logically.
-	2. *process consistent*: consistency between the explanation and model's predictions with other inputs. Fig 6.10.
+	2. *process consistent*: consistency between the explanation and model's predictions with future inputs. Fig 6.10.
 
 [talk](https://youtu.be/qbIk7-JPB2c) by leading author. [Here](https://youtu.be/qbIk7-JPB2c?t=2386) is an interesting example and insight. He argues how it is possible for future GPT to overcome initial mistakes through reasoning, i.e., overcome the 'most likely next token'.
 
