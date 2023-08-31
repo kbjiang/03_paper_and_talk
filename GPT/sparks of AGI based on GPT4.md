@@ -21,5 +21,7 @@
 
 [talk](https://youtu.be/qbIk7-JPB2c) by leading author. [Here](https://youtu.be/qbIk7-JPB2c?t=2386) is an interesting example and insight. He argues how it is possible for future GPT to overcome initial mistakes through reasoning, i.e., overcome the 'most likely next token'.
 
+### Discriminative capabilities
+1. Sec 7.2.1 on why metrics like ROUGE is not sufficient
 
 seven
