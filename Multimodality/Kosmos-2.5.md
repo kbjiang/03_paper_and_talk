@@ -1,4 +1,3 @@
-### Kosmos-2.5: A Multimodal literate model
 1. link: [2309.11419.pdf (arxiv.org)](https://arxiv.org/pdf/2309.11419.pdf)
 2. takeaways
 	1. It *reads/understands* the text and format in images and *translates* them into 'text + bbox' or 'markdown'. 
