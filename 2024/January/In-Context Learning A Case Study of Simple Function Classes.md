@@ -1,4 +1,18 @@
-### In-Context Learning: A Case Study of Simple Function Classes
+Date: 2023-12-29
+Date of publish: 
+Tags: #ICL 
+
+Talk link:
+Paper link:
+Related: 
+	- [[What Learning Algorithm is In-Context Learning]]
+
+## Main takeaways
+
+## What I don't agree
+
+## Questions
+
 1. talk: https://youtu.be/DiJsg93zQDc
 2. paper: https://arxiv.org/pdf/2208.01066.pdf
 3. take away from talk:
