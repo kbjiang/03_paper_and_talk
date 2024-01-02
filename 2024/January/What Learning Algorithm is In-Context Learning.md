@@ -1,9 +1,10 @@
 Date: 2023-12-29
 Date of publish: 
+Authors: 
 Tags: #ICL
 
 Talk link:
-Paper link:
+Paper link: [2208.01066.pdf (arxiv.org)](https://arxiv.org/pdf/2208.01066.pdf)
 Related: 
 	- [[In-Context Learning A Case Study of Simple Function Classes]]
 
