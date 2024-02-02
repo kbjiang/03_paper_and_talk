@@ -17,6 +17,8 @@ Related:
 1. Is ICL "learning"
 	1. contradicting hypothesis: invoke vs learning, translation vs made-up rules
 ## Main takeaways
+1. It is "next token regression", but the function to learn is in context
+2. The model learns an approximately *Bayes Optimal algorithm*
 
 ## What I don't agree
 
