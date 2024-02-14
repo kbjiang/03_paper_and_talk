@@ -19,6 +19,7 @@ Related:
 ## Main takeaways
 1. It is "next token regression", but the function to learn is in context
 2. The model learns an approximately *Bayes Optimal algorithm*
+3. The existence of double descent proves linear regression. https://youtu.be/DiJsg93zQDc?t=2953
 
 ## What I don't agree
 
