@@ -1,13 +1,14 @@
 Date: 2023-12-29
 Date of publish: 2022
+Authors: Shivam Garg, Dimitris Tsipras, Percy Liang, Gregory Valiant
 Tags: #ICL 
 
 Talk link: https://youtu.be/DiJsg93zQDc
-Paper link: [2208.01066.pdf (arxiv.org)](https://arxiv.org/pdf/2208.01066.pdf)
+Paper link: [[2208.01066] What Can Transformers Learn In-Context? A Case Study of Simple Function Classes (arxiv.org)](https://arxiv.org/abs/2208.01066)
 Related: 
-	- [[What Learning Algorithm is In-Context Learning]]
+	- [[01b-What Learning Algorithm is In-Context Learning]]
 
-## Main contributions
+## Main results
 1. *Empirically* proved that *Transformers can learn simple functions in-context*.
 2. Proposed an interpretable and theoretically amenable setting for understanding ICL in transformers
 ## Details
