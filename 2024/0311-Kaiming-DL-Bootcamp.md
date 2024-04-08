@@ -5,7 +5,7 @@ Tags: #DL-Overview
 
 Talk link: https://youtu.be/D_jt-xO_RmI
 Paper link:
-Related: 
+Related: [[Visualization]] (bootcamp part)
 
 1. Big Idea of DL
 	1. compose simple modules to learn complex functions
