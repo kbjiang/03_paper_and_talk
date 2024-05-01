@@ -1,7 +1,7 @@
 Date: 2023-12-29
 Date of publish: 
 Authors: Ekin Akyurek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou
-Tags: #ICL
+Tags: #ICL #UnderstandTransformers 
 
 Talk link: https://youtu.be/UNVl64G3BzA
 Paper link: [[2211.15661] What learning algorithm is in-context learning? Investigations with linear models (arxiv.org)](https://arxiv.org/abs/2211.15661)

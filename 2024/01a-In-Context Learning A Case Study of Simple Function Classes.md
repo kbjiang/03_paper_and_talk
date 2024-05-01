@@ -1,7 +1,7 @@
 Date: 2023-12-29
 Date of publish: 2022
 Authors: Shivam Garg, Dimitris Tsipras, Percy Liang, Gregory Valiant
-Tags: #ICL 
+Tags: #ICL #UnderstandTransformers 
 
 Talk link: https://youtu.be/DiJsg93zQDc
 Paper link: [[2208.01066] What Can Transformers Learn In-Context? A Case Study of Simple Function Classes (arxiv.org)](https://arxiv.org/abs/2208.01066)
