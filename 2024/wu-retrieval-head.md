@@ -31,5 +31,5 @@ Related:
 ## My takeaways
 
 ## Reference
-1. In-context Learning and Induction Heads [2209.11895 (arxiv.org)](https://arxiv.org/pdf/2209.11895)
+1. [In-context Learning and Induction Heads (transformer-circuits.pub)](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
 2. Transformer Feed-Forward Layers Are Key-Value Memories [2012.14913 (arxiv.org)](https://export.arxiv.org/pdf/2012.14913)
