@@ -8,6 +8,8 @@ Related:
 ### Ideas
 1. overfitting
 2. inductive biases
+![[Pasted image 20241031143056.png]]
+
 
 
 ## **Towards Understanding Deep Classifiers though Neural Collapse**
