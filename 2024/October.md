@@ -13,7 +13,7 @@ Related:
 
 
 ## **Towards Understanding Deep Classifiers though Neural Collapse**
-Tags: #DL-fundation #Math-heavy
+Tags: #DL-fundation #Math-heavy #Neural-collapse
 Authors: Mengjia Xu, Akshay Rangamani, Qianli Liao, Tomer Galanti, and Tomaso Poggio
 Talk link: https://youtu.be/CcbOoxcqZes
 Paper link: https://spj.science.org/doi/epdf/10.34133/research.0024
