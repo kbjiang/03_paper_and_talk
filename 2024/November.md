@@ -10,3 +10,15 @@ Related:
 - We can perform fine tuning in the form of continued pretraining to expose the LLM to more (and new) data/knowledge.
 - Alignment-focused objectives can be achieved via fine tuning (SFT) on small, high-quality datasets. We don’t need tons of data to learn the style or format of output, only to learn new knowledge.
 
+## **How Transformers Learn Causal Structure with Gradient Descent**^transformer-causal
+
+Tags: #UnderstandTransformers 
+Authors: Jason Lee
+Talk link: https://youtu.be/xlWBsISnaRA
+Post link: 
+Related: 
+### Why interesting
+### Ideas/conclusions
+
+### References
+1. https://transformer-circuits.pub/2021/framework/index.html

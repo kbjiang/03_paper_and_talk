@@ -7,6 +7,7 @@ Talk link: https://youtu.be/DiJsg93zQDc
 Paper link: [[2208.01066] What Can Transformers Learn In-Context? A Case Study of Simple Function Classes (arxiv.org)](https://arxiv.org/abs/2208.01066)
 Related: 
 	- [[01b-What Learning Algorithm is In-Context Learning]]
+	- [[November#^transformer-causal]]
 
 ## Main results
 1. *Empirically* proved that *Transformers can learn simple functions in-context*.
@@ -36,6 +37,7 @@ Related:
 	2. Analogous to CNN vs VIT.
 
 ## Reference
-1. Double descent [*1912.07242.pdf (arxiv.org)](https://arxiv.org/pdf/1912.07242.pdf)
-2. Meta learning [Meta-Learning: Learning to Learn Fast | Lil'Log (lilianweng.github.io)](https://lilianweng.github.io/posts/2018-11-30-meta-learning/)
-3. Bayesian Linear Regression [CSC 411 Lecture 19: Bayesian Linear Regression (toronto.edu)](https://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/slides/lec19-slides.pdf)
+1. [How Transformers Learn Causal Structure with Gradient Descent](https://youtu.be/xlWBsISnaRA)
+2. Double descent [*1912.07242.pdf (arxiv.org)](https://arxiv.org/pdf/1912.07242.pdf)
+3. Meta learning [Meta-Learning: Learning to Learn Fast | Lil'Log (lilianweng.github.io)](https://lilianweng.github.io/posts/2018-11-30-meta-learning/)
+4. Bayesian Linear Regression [CSC 411 Lecture 19: Bayesian Linear Regression (toronto.edu)](https://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/slides/lec19-slides.pdf)
