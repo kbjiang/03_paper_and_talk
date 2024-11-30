@@ -24,7 +24,7 @@ Related:
 
 
 ## UNDERSTANDING DEEP LEARNING REQUIRES RETHINKING GENERALIZATION
-Tags: #DL-fundation  #DL-generalization 
+Tags: #DL-fundation  #DL-generalization #SGD 
 Authors: Chiyuan Zhang et.al.
 Paper link: https://arxiv.org/pdf/1611.03530
 Talk link: 
@@ -39,4 +39,4 @@ Related:
 1. [[October#**Reconciling modern machine-learning practice and the classical bias–variance trade-off**]]
 2. [Implicit Regularization in Matrix Factorization](https://dl.acm.org/doi/pdf/10.5555/3295222.3295363) 
 	1. Ref 17 and [video](https://youtu.be/gh9vrvLx7Mo)
-	2. Nathan Srebro is the man!
+	2. Nathan Srebro is the man! Let's revisit this after taking the convex optimization course.

@@ -15,7 +15,7 @@ Related:
 
 
 ## **Towards Understanding Deep Classifiers though Neural Collapse**
-Tags: #DL-fundation #Math-heavy #Neural-collapse
+Tags: #DL-fundation #Math-heavy #Neural-collapse #SGD
 Authors: Mengjia Xu, Akshay Rangamani, Qianli Liao, Tomer Galanti, and Tomaso Poggio
 Talk link: https://youtu.be/CcbOoxcqZes
 Paper link: https://spj.science.org/doi/epdf/10.34133/research.0024
@@ -24,4 +24,8 @@ Related:
 ### Ideas
 1. Neural collapse
 	![[Pasted image 20241027164227.png|600]]
+2. SGD and low-rank bias
+
+### References
+1. [Gerard Ben Arous Colloquium on stochastic gradient descent in high dimensions](https://youtu.be/T78S9FOEg50)
 	
