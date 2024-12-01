@@ -1,9 +1,10 @@
-## **Reconciling modern machine-learning practice and the classical bias–variance trade-off**
+## Reconciling modern machine-learning practice and the classical bias–variance trade-off
 Tags: #DL-fundation #Math-heavy #DL-generalization
 Authors: Mikhail Belkin, Daniel Hsu, Siyuan Ma, and Soumik Mandal
 Talk link: 
 Paper link: https://www.pnas.org/doi/10.1073/pnas.1903070116
 Related: 
+1. [[Gradient descent]]
 ### Why interesting
 ### Ideas
 1. overfitting
@@ -14,7 +15,7 @@ Related:
 
 
 
-## **Towards Understanding Deep Classifiers though Neural Collapse**
+## Towards Understanding Deep Classifiers though Neural Collapse
 Tags: #DL-fundation #Math-heavy #Neural-collapse #SGD
 Authors: Mengjia Xu, Akshay Rangamani, Qianli Liao, Tomer Galanti, and Tomaso Poggio
 Talk link: https://youtu.be/CcbOoxcqZes
