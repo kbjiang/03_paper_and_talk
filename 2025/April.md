@@ -47,3 +47,16 @@ Related:
 	2. Intensive online reinforcement learning (main part)
 	3. light DPO
 	4. ![[Pasted image 20250406205832.png|600]]
+
+## 生成式AI時代下的機器學習(2025)】第三講：AI 的腦科學 — 語言模型內部運作機制剖析 (解析單一神經元到整群神經元的運作機制、如何讓語言模型說出自己的內心世界)
+Date of publish: March 2025
+Authors: Hung-yi Lee
+Tags: #Transformers #LLM #UnderstandTransformers 
+
+Talk link: https://youtu.be/Xnil63UDW2o
+Paper link: 
+Related: 
+### Main results
+### Deep dive
+1. exact definition of a neuron. https://youtu.be/Xnil63UDW2o?t=690
+### Deep dive 
