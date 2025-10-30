@@ -3,7 +3,8 @@ Date of publish:
 Authors: Ekin Akyurek, Dale Schuurmans, Jacob Andreas, Tengyu Ma, Denny Zhou
 Tags: #ICL #UnderstandTransformers 
 
-Talk link: https://youtu.be/UNVl64G3BzA
+Talk link: 
+- https://youtu.be/UNVl64G3BzA
 Paper link: [[2211.15661] What learning algorithm is in-context learning? Investigations with linear models (arxiv.org)](https://arxiv.org/abs/2211.15661)
 Related: 
 	- [[01a-In-Context Learning A Case Study of Simple Function Classes]]
@@ -34,6 +35,8 @@ Related:
 ## Main takeaways
 
 ## Reference
-1. Linear classifier probes [1610.01644.pdf (arxiv.org)](https://arxiv.org/pdf/1610.01644.pdf)
+1. A survey talk by one of the authors (Tengyu Ma)
+	1. https://youtu.be/hxrR39mAlR4?list=PLgKuh-lKre13qQH5G4jpudE3_TYcqySVE
+2. Linear classifier probes [1610.01644.pdf (arxiv.org)](https://arxiv.org/pdf/1610.01644.pdf)
 	1. Also https://youtu.be/HJn-OTNLnoE
 	2. Basically one uses *features* at intermediate layers as input and train a linear classifier toward the label. The better the classifier, the more confident we become about the feature is learnt at that layer.
